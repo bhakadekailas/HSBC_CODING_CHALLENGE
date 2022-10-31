@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KB_HSBC_CODING_CHALLENGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="favorite_image_view">Favorite Image View</string>
+    <string name="user_profile_picture">User Profile Picture</string>
 </resources>

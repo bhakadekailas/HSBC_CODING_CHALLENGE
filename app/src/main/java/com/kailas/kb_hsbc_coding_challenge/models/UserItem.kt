@@ -18,5 +18,6 @@ data class UserItem(
     val starred_url: String,
     val subscriptions_url: String,
     val type: String,
-    val url: String
+    val url: String,
+    var isFavorite: Boolean = false
 )
