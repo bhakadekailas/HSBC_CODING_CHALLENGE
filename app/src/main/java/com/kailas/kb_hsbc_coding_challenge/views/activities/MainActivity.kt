@@ -1,7 +1,7 @@
 package com.kailas.kb_hsbc_coding_challenge.views.activities
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.tabs.TabLayoutMediator
 import com.kailas.kb_hsbc_coding_challenge.adapters.ViewPagerAdapter
 import com.kailas.kb_hsbc_coding_challenge.databinding.ActivityMainBinding

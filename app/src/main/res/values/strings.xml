@@ -6,4 +6,7 @@
     <string name="name">Name</string>
     <string name="favorite_image_view">Favorite Image View</string>
     <string name="user_profile_picture">User Profile Picture</string>
+    <string name="all_repository">All Repository</string>
+    <string name="full_name">Full Name</string>
+    <string name="search_user">Search User</string>
 </resources>

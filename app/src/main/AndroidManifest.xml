@@ -16,6 +16,13 @@
         android:theme="@style/Theme.KB_HSBC_CODING_CHALLENGE"
         tools:targetApi="31">
         <activity
+            android:name=".views.activities.UserDetailsActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".views.activities.MainActivity"
             android:exported="true">
             <intent-filter>
